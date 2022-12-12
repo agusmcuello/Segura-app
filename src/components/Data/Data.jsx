@@ -7,7 +7,7 @@ const Data = () => {
             <div className="container">
                 <div className="content">
                     <h2><span>Recuperación</span> de Datos</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi officiis unde perferendis voluptas laborum aliquam culpa officia a maiores porro. Consequuntur officia corporis aliquam numquam, fuga quisquam illo. Obcaecati, voluptatum.</p>
+                    <p>Ofrecemos un servicio para recuperar la información que has perdido. Nuestra metodología es segura y privada, no contiene plazos determinados y garantiza la total recuperación de los datos perdidos.</p>
                     <div>
                         <button>Sign Up</button>
                     </div>
